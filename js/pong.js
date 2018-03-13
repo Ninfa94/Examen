@@ -6,7 +6,7 @@ let  ball
 function setup(){
 	createCanvas(windowWidth,windowHeight)
 	ball = new Ball()
-	p1 = new Paddle(1,'purple')
+	p1 = new Paddle(1,'red')
 	p2 = new Paddle(2,'blue')
 }
 
